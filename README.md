@@ -1,3 +1,2 @@
 FF# Fractales
 C
-F
